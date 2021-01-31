@@ -13,7 +13,7 @@
 
 ### Setup
 ```
-git clone https://github.com/shambu2k/wolt-summer-2021-assignment
+git clone https://github.com/shambu2k/wolt-summer-2021-assignment.git
 npm install
 ```
 ### Starting API
